@@ -3,14 +3,23 @@
 ## OSM Rivers and Streams
 
 Source: OpenStreetMap
+
 Extraction method: QuickOSM
+
 Query: `waterway=*`
+
 Study area: Ona River Basin
+
 Downloaded: 13 September 2026
+
 Number of features: 1,435
+
 Geometry: Lines
+
 Important fields: `waterway` (text), `name` (text)
+
 Null values: Present
+
 Coverage: Rivers and streams extracted within the study area
 
 ### Data limitation
@@ -22,15 +31,25 @@ Some attribute fields contain null values. The `name` field, in particular, may 
 ## OSM Settlements
 
 Source: OpenStreetMap
+
 Extraction method: QuickOSM
+
 Query: `place=*`
+
 Study area: Ona River Basin
+
 Downloaded: 13 September 2026
+
 Number of features: 104
+
 Geometry: Points
+
 Important fields: `place` (text), `GNS_DSG_ST` (text), `alt_name` (text)
+
 Null values: Present
+
 Coverage: Settlement locations extracted within the study area, but coverage is not complete
+
 
 ### Data limitation
 
